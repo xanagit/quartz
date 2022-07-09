@@ -1,11 +1,21 @@
 name: Jacky Zhao
 enableToc: true
+openToc: false
 enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableSPA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: false
+enableGitHubEdit: false
+GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
+  Wikilink support, backlinks, local graph, tags, and link previews.
 page_title:
-  "🪴 Quartz 3.1"
+  "🪴 Quartz 3.2"
 links:
   - link_name: Twitter
     link: https://twitter.com/_jzhao
